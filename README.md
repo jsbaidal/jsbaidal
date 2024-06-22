@@ -1,16 +1,21 @@
 ## Hi there 👋
-
-<!--
-**jsbaidal/jsbaidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+## Información personal
+* Nombre:José Baidal
+* Ocupación: Estudiante de Computación
+* Lugar de residencia: Guayaquil
+* Sitio web:https://jsbaidal.github.io
+## Proyectos
+* Proyecto CV: https://jsbaidal.github.io/curriculum/
+* Proyecto Landing Page SPA: https://jsbaidal.github.io/Landing/
+* Proyecto Dashboard :  https://jsbaidal.github.io/DashboardClima/
+## Intereses
+* Programar
+* Videojuegos
+* Leer
